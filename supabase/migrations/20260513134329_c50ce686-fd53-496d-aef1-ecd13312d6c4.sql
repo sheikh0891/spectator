@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.notify_event_change() FROM PUBLIC, anon, authenticated;
